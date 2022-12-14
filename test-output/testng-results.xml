@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-16T13:32:03 PST" name="Default suite" finished-at="2022-11-16T13:32:29 PST" duration-ms="26502">
+  <suite started-at="2022-12-14T14:59:12 PST" name="Default suite" finished-at="2022-12-14T14:59:57 PST" duration-ms="45152">
     <groups>
     </groups>
-    <test started-at="2022-11-16T13:32:03 PST" name="Default test" finished-at="2022-11-16T13:32:29 PST" duration-ms="26502">
+    <test started-at="2022-12-14T14:59:12 PST" name="Default test" finished-at="2022-12-14T14:59:57 PST" duration-ms="45152">
       <class name="Supriya_Sept8.Appium.ScrollDemo">
-        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Supriya_Sept8.Appium.ScrollDemo@48aca48b]" started-at="2022-11-16T13:32:03 PST" name="ConfigureAppium" finished-at="2022-11-16T13:32:18 PST" duration-ms="15123" status="PASS">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Supriya_Sept8.Appium.ScrollDemo@13fd2ccd]" started-at="2022-12-14T14:59:12 PST" name="ConfigureAppium" finished-at="2022-12-14T14:59:21 PST" duration-ms="8510" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigureAppium -->
-        <test-method signature="ScrollDemoTest()[pri:0, instance:Supriya_Sept8.Appium.ScrollDemo@48aca48b]" started-at="2022-11-16T13:32:18 PST" name="ScrollDemoTest" finished-at="2022-11-16T13:32:29 PST" duration-ms="10510" status="PASS">
+        <test-method signature="ScrollDemoTest()[pri:0, instance:Supriya_Sept8.Appium.ScrollDemo@13fd2ccd]" started-at="2022-12-14T14:59:21 PST" name="ScrollDemoTest" finished-at="2022-12-14T14:59:57 PST" duration-ms="35635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ScrollDemoTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Supriya_Sept8.Appium.ScrollDemo@48aca48b]" started-at="2022-11-16T13:32:29 PST" name="tearDown" finished-at="2022-11-16T13:32:29 PST" duration-ms="792" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Supriya_Sept8.Appium.ScrollDemo@13fd2ccd]" started-at="2022-12-14T14:59:57 PST" name="tearDown" finished-at="2022-12-14T14:59:57 PST" duration-ms="948" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
